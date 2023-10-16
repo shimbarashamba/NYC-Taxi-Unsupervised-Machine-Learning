@@ -219,6 +219,5 @@ plt.pie(cluster_counts,
         explode=explode,
         textprops={'fontsize': 14, 'fontweight': 'bold'})  # Adjust font properties
 
-# Set title with increased font size
 plt.tight_layout()
 plt.show()
