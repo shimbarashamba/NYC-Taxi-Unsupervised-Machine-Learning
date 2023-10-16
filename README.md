@@ -3,7 +3,7 @@
 
 # NYC-Taxi-Unsupervised-Machine-Learning
  Using unsupervised machine learning to find patterns in a dataset of NYC taxi trips 2015. The dataset can be found on Kaggle here: https://www.kaggle.com/datasets/elemento/nyc-yellow-taxi-trip-data
- The code will load the dataset given that it is saved in the working directory. It will then perform unsupervised ML using Kmeans clustering and do some visualization
+ The code will load the dataset given that it is saved in the working directory. It will then perform unsupervised ML using K-means clustering and do some analysis/visualization.
 
 ![Slide2](https://github.com/shimbarashamba/NYC-Taxi-Unsupervised-Machine-Learning/assets/73606183/70be42df-8bc7-4da2-8b87-a94eacd8a2a8)
 ![Slide3](https://github.com/shimbarashamba/NYC-Taxi-Unsupervised-Machine-Learning/assets/73606183/2ba337e5-83b7-43d8-9f91-9be726cb86ef)
