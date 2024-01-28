@@ -10,3 +10,4 @@
 ![Slide6](https://github.com/shimbarashamba/NYC-Taxi-Unsupervised-Machine-Learning/assets/73606183/be0696e7-8361-483e-a1c1-06f49d366a63)
 ![Slide7](https://github.com/shimbarashamba/NYC-Taxi-Unsupervised-Machine-Learning/assets/73606183/6bca0db2-d205-4326-919c-cec0f3c26fc7)
 ![Slide8](https://github.com/shimbarashamba/NYC-Taxi-Unsupervised-Machine-Learning/assets/73606183/08240043-1e3b-48e4-9849-a60df30bbb64)
+![Slide9](https://github.com/shimbarashamba/NYC-Taxi-Unsupervised-Machine-Learning/assets/73606183/91b16edd-2a5c-47a5-9dee-8bd043a48165)
